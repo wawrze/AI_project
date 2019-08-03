@@ -1,0 +1,205 @@
+NAZWA,INDEX,XPOZ,YPOZ
+Balnica
+0
+7254
+5249
+Berehy Gorne
+1
+7697
+5304
+Berezki
+2
+7818
+5318
+Bukowe Berdo
+3
+7894
+5349
+Szymonowa Hyrlata
+4
+7333
+5256
+Chatka Puchatka
+5
+7675
+5284
+Chryszczata
+6
+7216
+5098
+Cisna
+7
+7395
+5217
+Czerenin
+8
+7274
+5294
+Dolzyca
+9
+7419
+5202
+Duszatyn
+10
+7128
+5090
+Dwernik
+11
+7770
+5218
+Falowa
+12
+7475
+5207
+Gleboki Wierch
+13
+7117
+5208
+Halicz
+14
+7951
+5393
+Hulskie
+15
+7645
+5183
+Wolosate
+16
+7838
+5400
+Wolosan
+17
+7296
+5181
+Smerek (wies)
+18
+7531
+5261
+Kolonice
+19
+7301
+5148
+Komancza
+20
+7068
+5059
+Wielka Rawka
+21
+7709
+5360
+Wzgorze 983
+22
+7797
+5257
+Wolkowyja
+23
+7498
+5062
+Krysowa
+24
+7568
+5212
+Ustrzyki Gorne
+25
+7798
+5348
+Lutowiska
+26
+7857
+5167
+Lopiennik
+27
+7407
+5175
+Mala Rawka
+28
+7704
+5345
+Wetlina
+29
+7591
+5303
+Maniow
+30
+7168
+5000
+Muczne
+31
+7918
+5321
+Myczkow
+32
+7499
+5006
+Nowy Lupkow
+33
+7087
+5165
+Okraglik
+34
+7444
+5298
+Chata Socjologa
+35
+7784
+5179
+Polana
+36
+7705
+5102
+Polonina Carynska
+37
+7738
+5308
+Przelecz Orlowicza
+38
+7600
+5256
+Przelecz nad Radoszycami
+39
+7000
+5120
+Przelecz nad Roztokami
+40
+7401
+5302
+Przelecz pod Tarnica
+41
+7895
+5385
+Przelecz Wyznianska
+42
+7726
+5326
+Przelecz Zebrak
+43
+7223
+5145
+Przyslup Carynski
+44
+7788
+5294
+Pszczeliny
+45
+7851
+5277
+Rabia Skala
+46
+7535
+5354
+Roztoki Gorne
+47
+7377
+5289
+Tarnica
+48
+7896
+5390
+Terka
+49
+7524
+5103
+Smerek
+50
+7583
+5250
